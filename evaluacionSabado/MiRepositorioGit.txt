@@ -1,4 +1,22 @@
+<!Doctype html>
 
-Manuel Olivares Rojas
+<html lang= "es"> 
+    <head>
+       <meta charset = "utf-8"/>
+       <meta name = "viewport" content = "width = device - width,initial - scale=1.0">			
+   </head>
+         <title> Prueba 1 ProgrSegura </title>
+          
+          <body> 
 
-200- 4000}
+              <h1> Manuel Olivares Rojas </h1> 
+              <h1> seccion 200 - 4000 </h1>
+
+
+
+
+          </body>
+
+
+
+</html>
